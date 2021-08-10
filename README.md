@@ -11,7 +11,7 @@ This package is covered by the open source [APACHE 2.0 License](APACHE-LICENSE-2
 When using this code, please cite this repository and the corresponding paper
 as following:
 
-``Martijn P.A. Starmans. LiverRadiomics. Zenodo (2021). Available from:  https://github.com/MStarmans91/MelaRadiomics.``
+``Martijn P.A. Starmans. LiverRadiomics. Zenodo (2021). Available from:  https://github.com/MStarmans91/LiverRadiomics.``
 
 ## Installation
 For both the feature extraction and model optimization, WORC, version 3.4.2,
