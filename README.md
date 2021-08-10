@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5175705.svg)](https://doi.org/10.5281/zenodo.5175705)
+
 # LiverRadiomics
 Scripts to compute the radiomics features and fit the machine learning models as presented in the paper "Automated differentiation of malignant and benign primary solid liver lesions in non-cirrhotic livers on MRI: an externally validated radiomics model." by M. P. A. Starmans et al. 2021.
 
@@ -11,7 +13,7 @@ This package is covered by the open source [APACHE 2.0 License](APACHE-LICENSE-2
 When using this code, please cite this repository and the corresponding paper
 as following:
 
-``Martijn P.A. Starmans. LiverRadiomics. Zenodo (2021). Available from:  https://github.com/MStarmans91/LiverRadiomics.``
+``Martijn P.A. Starmans. LiverRadiomics. Zenodo (2021). Available from:  https://github.com/MStarmans91/LiverRadiomics. DOI: https://doi.org/10.5281/zenodo.5175705``
 
 ## Installation
 For both the feature extraction and model optimization, WORC, version 3.4.2,
